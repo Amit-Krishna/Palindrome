@@ -1,2 +1,2 @@
 # Palindrome
-Code for all
+Code to see if the string is a palindrome or not...
