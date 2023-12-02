@@ -1,0 +1,2 @@
+# Palindrome
+Code for all
